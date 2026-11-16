@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Maquette privée. Ne pas indexer. Ne pas publier sur benedicte.ca.

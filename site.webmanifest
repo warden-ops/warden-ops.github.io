@@ -1,0 +1,14 @@
+{
+  "name": "Simplement Nous",
+  "short_name": "Simplement Nous",
+  "description": "Équipe de courtiers immobiliers résidentiels, Val-d'Or, Abitibi et Rive-Sud. eXp Agence immobilière.",
+  "lang": "fr-CA",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FBF6EE",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
